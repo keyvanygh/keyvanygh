@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=&animation=twinkling&fontSize=60)
 
-### Hey <img src="https://github.com/abdorizak/ABDORIZAK/blob/main/Assets/Hi.gif" width="30">, I'm Keyvan
+### Hey <img src="https://github.com/abdorizak/ABDORIZAK/blob/main/Assets/Hi.gif" width="30">
 
 # About Me 😁
 <p>Keyvan is an iOS Developer with a passion for developing apps, and Open Sources, a hard worker with good communication skills who works effectively in a team and has the ability to meet deadlines and able to work under stressful working environment, honest, friendly and highly motivated person with good productivity for the organization.</p>
