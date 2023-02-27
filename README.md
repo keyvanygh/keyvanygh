@@ -6,7 +6,7 @@
 <p>Keyvan is an iOS Developer with a passion for developing apps, and Open Sources, a hard worker with good communication skills who works effectively in a team and has the ability to meet deadlines and able to work under stressful working environment, honest, friendly and highly motivated person with good productivity for the organization.</p>
 
 ### 📈 GitHub Status
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyvanygh&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keyvanygh&theme=dark)](https://github.com/keyvanygh)
 
 ### Contact 📫
 You can find me on:
